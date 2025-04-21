@@ -1,0 +1,2 @@
+esto es un fichero en la rama 2
+no cambia
